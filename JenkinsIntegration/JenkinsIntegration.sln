@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsIntegration", "JenkinsIntegration\JenkinsIntegration.csproj", "{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{51678121-1291-4822-BC0E-D647A24D7C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsIntegrationTests", "JenkinsIntegrationTests\JenkinsIntegrationTests.csproj", "{50374022-C5CF-4B23-ACEA-B8A23D91248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51678121-1291-4822-BC0E-D647A24D7C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51678121-1291-4822-BC0E-D647A24D7C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51678121-1291-4822-BC0E-D647A24D7C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51678121-1291-4822-BC0E-D647A24D7C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26863A78-437A-42A2-8D91-92EC6C7BC65F}
+	EndGlobalSection
+EndGlobal
