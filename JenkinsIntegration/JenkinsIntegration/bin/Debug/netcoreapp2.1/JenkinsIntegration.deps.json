@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "80bcb7f39f41ef85d6d7ddecfb10642fe71c3511"
+    "signature": "e071b1a7c9d575b1b3d9ba6c9a1be1d9c6701ca2"
   },
   "compilationOptions": {
     "defines": [
@@ -27,8 +27,7 @@
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
-          "Services": "1.0.0",
-          "Unity.Mvc": "5.10.1"
+          "Services": "1.0.0"
         },
         "runtime": {
           "JenkinsIntegration.dll": {}
@@ -207,17 +206,6 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.0"
-        }
-      },
-      "Unity.Mvc/5.10.1": {
-        "runtime": {
-          "lib/net46/Unity.Mvc.dll": {
-            "assemblyVersion": "5.10.1.0",
-            "fileVersion": "5.10.1.0"
-          }
-        },
-        "compile": {
-          "lib/net46/Unity.Mvc.dll": {}
         }
       },
       "Services/1.0.0": {
@@ -3231,13 +3219,6 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
-    },
-    "Unity.Mvc/5.10.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Z4RozyuDyRnO5tmG/WxcUbfGRs2BA3iFWeIraz/CXDW1OiQZ8GYajCv9o+qLTqRAVpFQiFbe2WL4Jf+ECDJGiA==",
-      "path": "unity.mvc/5.10.1",
-      "hashPath": "unity.mvc.5.10.1.nupkg.sha512"
     },
     "Services/1.0.0": {
       "type": "project",

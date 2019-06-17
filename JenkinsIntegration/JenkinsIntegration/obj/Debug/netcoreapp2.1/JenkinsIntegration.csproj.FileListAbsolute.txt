@@ -5,6 +5,8 @@ C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsInteg
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\JenkinsIntegration.pdb
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\JenkinsIntegration.Views.dll
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\JenkinsIntegration.Views.pdb
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\Services.pdb
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csprojAssemblyReference.cache
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csproj.CoreCompileInputs.cache
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.RazorAssemblyInfo.cache
@@ -18,8 +20,6 @@ C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsInteg
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.RazorTargetAssemblyInfo.cache
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.RazorTargetAssemblyInfo.cs
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.Views.pdb
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csproj.CopyComplete
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.dll
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.pdb
-C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csproj.CopyComplete
-C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\Services.dll
-C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\Services.pdb

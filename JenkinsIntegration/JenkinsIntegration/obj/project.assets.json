@@ -4334,15 +4334,6 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "Unity.Mvc/5.10.1": {
-        "type": "package",
-        "compile": {
-          "lib/net46/Unity.Mvc.dll": {}
-        },
-        "runtime": {
-          "lib/net46/Unity.Mvc.dll": {}
-        }
-      },
       "Services/1.0.0": {
         "type": "project",
         "compile": {
@@ -11833,33 +11824,6 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "Unity.Mvc/5.10.1": {
-      "sha512": "Z4RozyuDyRnO5tmG/WxcUbfGRs2BA3iFWeIraz/CXDW1OiQZ8GYajCv9o+qLTqRAVpFQiFbe2WL4Jf+ECDJGiA==",
-      "type": "package",
-      "path": "unity.mvc/5.10.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "content/App_Start/UnityConfig.cs.pp",
-        "content/App_Start/UnityMvcActivator.cs.pp",
-        "contentFiles/any/net45/App_Start/UnityConfig.cs.pp",
-        "contentFiles/any/net45/App_Start/UnityMvcActivator.cs.pp",
-        "contentFiles/any/net46/App_Start/UnityConfig.cs.pp",
-        "contentFiles/any/net46/App_Start/UnityMvcActivator.cs.pp",
-        "contentFiles/any/net47/App_Start/UnityConfig.cs.pp",
-        "contentFiles/any/net47/App_Start/UnityMvcActivator.cs.pp",
-        "lib/net45/Unity.Mvc.dll",
-        "lib/net45/Unity.Mvc.pdb",
-        "lib/net45/Unity.Mvc.xml",
-        "lib/net46/Unity.Mvc.dll",
-        "lib/net46/Unity.Mvc.pdb",
-        "lib/net47/Unity.Mvc.dll",
-        "lib/net47/Unity.Mvc.pdb",
-        "lib/net47/Unity.Mvc.xml",
-        "unity.mvc.5.10.1.nupkg.sha512",
-        "unity.mvc.nuspec"
-      ]
-    },
     "Services/1.0.0": {
       "type": "project",
       "path": "../Services/Services.csproj",
@@ -11871,8 +11835,7 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Services >= 1.0.0",
-      "Unity.Mvc >= 5.10.1"
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11935,10 +11898,6 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
-          },
-          "Unity.Mvc": {
-            "target": "Package",
-            "version": "[5.10.1, )"
           }
         },
         "imports": [
@@ -11948,17 +11907,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Unity.Mvc 5.10.1' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.1'. This package may not be fully compatible with your project.",
-      "libraryId": "Unity.Mvc",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }
