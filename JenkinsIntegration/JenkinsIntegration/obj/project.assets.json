@@ -4334,13 +4334,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "Services/1.0.0": {
+      "JenkinsIntegration.Services/1.0.0": {
         "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
         "compile": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/JenkinsIntegration.Services.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Services.dll": {}
+          "bin/placeholder/JenkinsIntegration.Services.dll": {}
         }
       }
     }
@@ -11824,18 +11825,18 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "Services/1.0.0": {
+    "JenkinsIntegration.Services/1.0.0": {
       "type": "project",
-      "path": "../Services/Services.csproj",
-      "msbuildProject": "../Services/Services.csproj"
+      "path": "../JenkinsIntegration.Services/JenkinsIntegration.Services.csproj",
+      "msbuildProject": "../JenkinsIntegration.Services/JenkinsIntegration.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "JenkinsIntegration.Services >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
-      "Microsoft.NETCore.App >= 2.1.0",
-      "Services >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -11868,8 +11869,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\akhil.mittal\\Documents\\GitHub\\Getting-Started-With-Jenkins\\JenkinsIntegration\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\akhil.mittal\\Documents\\GitHub\\Getting-Started-With-Jenkins\\JenkinsIntegration\\Services\\Services.csproj"
+            "C:\\Users\\akhil.mittal\\Documents\\GitHub\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj": {
+              "projectPath": "C:\\Users\\akhil.mittal\\Documents\\GitHub\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj"
             }
           }
         }

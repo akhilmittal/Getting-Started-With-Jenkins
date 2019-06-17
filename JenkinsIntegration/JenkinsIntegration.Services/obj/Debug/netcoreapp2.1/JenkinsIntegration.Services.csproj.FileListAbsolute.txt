@@ -1,0 +1,8 @@
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.deps.json
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfoInputs.cache
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb

@@ -1,0 +1,17 @@
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Tests.deps.json
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Tests.runtimeconfig.json
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Tests.runtimeconfig.dev.json
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Tests.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Tests.pdb
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\obj\Debug\netcoreapp2.1\JenkinsIntegration.Tests.csprojAssemblyReference.cache
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\obj\Debug\netcoreapp2.1\JenkinsIntegration.Tests.csproj.CoreCompileInputs.cache
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\obj\Debug\netcoreapp2.1\JenkinsIntegration.Tests.AssemblyInfoInputs.cache
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\obj\Debug\netcoreapp2.1\JenkinsIntegration.Tests.AssemblyInfo.cs
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\obj\Debug\netcoreapp2.1\JenkinsIntegration.Tests.csproj.CopyComplete
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\obj\Debug\netcoreapp2.1\JenkinsIntegration.Tests.dll
+C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Tests\obj\Debug\netcoreapp2.1\JenkinsIntegration.Tests.pdb

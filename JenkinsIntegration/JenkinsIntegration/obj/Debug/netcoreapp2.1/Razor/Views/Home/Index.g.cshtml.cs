@@ -55,7 +55,7 @@ using Microsoft.Extensions.Configuration;
             WriteLiteral("\r\n<!doctype html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(161, 509, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "99d54fecab3b4b6b9acec8424419666f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "11ccf8f8a2254163bbd6b8650fa0d3c6", async() => {
                 BeginContext(167, 496, true);
                 WriteLiteral(@"
   <!-- Required meta tags -->
@@ -84,7 +84,7 @@ using Microsoft.Extensions.Configuration;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(672, 1259, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fb5a13f465b44eb69b0fa2ec6b1d84a4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6b931f011c94ffb8f1cef8fb1592791", async() => {
                 BeginContext(726, 235, true);
                 WriteLiteral("\r\n\r\n  <div style=\"border: 1px solid lightgray\">\r\n    <div style=\"margin: 20px; border-radius: 0; color: white; background-color: #675AE2\" class=\"jumbotron\">\r\n      <p><b> Getting Started with Jenkins</b> | <b> Application Version</b>: ");
                 EndContext();

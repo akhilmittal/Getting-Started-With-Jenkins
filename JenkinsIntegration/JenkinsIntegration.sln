@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsIntegration", "JenkinsIntegration\JenkinsIntegration.csproj", "{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JenkinsIntegration", "JenkinsIntegration\JenkinsIntegration.csproj", "{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{51678121-1291-4822-BC0E-D647A24D7C55}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsIntegration.Tests", "JenkinsIntegration.Tests\JenkinsIntegration.Tests.csproj", "{4023DAAF-24FA-495D-906F-83641B4B8A3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsIntegrationTests", "JenkinsIntegrationTests\JenkinsIntegrationTests.csproj", "{50374022-C5CF-4B23-ACEA-B8A23D91248E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsIntegration.Services", "JenkinsIntegration.Services\JenkinsIntegration.Services.csproj", "{DA3246B1-E256-4214-9C13-E21AE2DD5C2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{633FAF79-5EEE-4EB6-93F4-1902A3F48A23}.Release|Any CPU.Build.0 = Release|Any CPU
-		{51678121-1291-4822-BC0E-D647A24D7C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{51678121-1291-4822-BC0E-D647A24D7C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{51678121-1291-4822-BC0E-D647A24D7C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{51678121-1291-4822-BC0E-D647A24D7C55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50374022-C5CF-4B23-ACEA-B8A23D91248E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4023DAAF-24FA-495D-906F-83641B4B8A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4023DAAF-24FA-495D-906F-83641B4B8A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4023DAAF-24FA-495D-906F-83641B4B8A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4023DAAF-24FA-495D-906F-83641B4B8A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3246B1-E256-4214-9C13-E21AE2DD5C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3246B1-E256-4214-9C13-E21AE2DD5C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3246B1-E256-4214-9C13-E21AE2DD5C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3246B1-E256-4214-9C13-E21AE2DD5C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

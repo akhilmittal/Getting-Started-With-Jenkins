@@ -1,5 +1,5 @@
 ﻿using System;
-using Services;
+using JenkinsIntegration.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JenkinsIntegration.Controllers

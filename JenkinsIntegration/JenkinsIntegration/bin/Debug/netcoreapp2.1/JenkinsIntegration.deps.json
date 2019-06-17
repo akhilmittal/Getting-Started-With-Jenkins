@@ -24,10 +24,10 @@
     ".NETCoreApp,Version=v2.1": {
       "JenkinsIntegration/1.0.0": {
         "dependencies": {
+          "JenkinsIntegration.Services": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
-          "Microsoft.NETCore.App": "2.1.0",
-          "Services": "1.0.0"
+          "Microsoft.NETCore.App": "2.1.0"
         },
         "runtime": {
           "JenkinsIntegration.dll": {}
@@ -208,12 +208,12 @@
           "Microsoft.NETCore.Platforms": "2.1.0"
         }
       },
-      "Services/1.0.0": {
+      "JenkinsIntegration.Services/1.0.0": {
         "runtime": {
-          "Services.dll": {}
+          "JenkinsIntegration.Services.dll": {}
         },
         "compile": {
-          "Services.dll": {}
+          "JenkinsIntegration.Services.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3220,7 +3220,7 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "Services/1.0.0": {
+    "JenkinsIntegration.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
