@@ -1,6 +1,5 @@
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\Services\bin\Debug\Services.dll
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\Services\bin\Debug\Services.pdb
-C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\Services\obj\Debug\Services.csprojAssemblyReference.cache
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\Services\obj\Debug\Services.dll
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\Services\obj\Debug\Services.pdb
